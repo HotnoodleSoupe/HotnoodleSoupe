@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... everything that has to do with 1 and 0
 - 🌱 I’m currently learning ... AI 
 - 💞️ I’m looking to collaborate on ...  let's see
-- 📫 How to reach me ... SynapticTwin@binarybunker.me or @synaptictwin:matrix.org
+- 📫 How to reach me ... SynapticTwin@0xl4b.dev or @synaptictwin:matrix.org
 
 - ⚡ Fun fact: ...
 
